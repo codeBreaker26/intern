@@ -1,6 +1,0 @@
-{{#user}}
-Name: Ishan Sahani
-Skills: HTML, CSS, JS, Node.js,Data Structures,Algorithm
-Email: ishansahani2601@gmail.com
-{{/user}}
-
